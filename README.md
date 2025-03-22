@@ -24,7 +24,7 @@ Soy **Ingeniero en Informática** con interés en **ciberseguridad ofensiva, clo
 ----
 
 ### 📫 **Conéctate conmigo**  
-- 💼 [LinkedIn]([https://www.linkedin.com/in/tu-perfil](https://www.linkedin.com/in/christopher-berrocal-041ba0218/))    
+- 💼 [LinkedIn] https://www.linkedin.com/in/tu-perfil](https://www.linkedin.com/in/christopher-berrocal-041ba0218/)   
 - 📩 **Contáctame:** chrstphrberrocal@gmail.com  
 
 ---
